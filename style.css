@@ -36,7 +36,7 @@ ul {
 
 li {
   position: relative;
-  /* overflow: hidden; */
+  overflow: hidden;
   text-align: center;
 }
 
