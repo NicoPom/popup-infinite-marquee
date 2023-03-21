@@ -38,6 +38,7 @@ li {
   position: relative;
   overflow: hidden;
   text-align: center;
+  cursor: pointer;
 }
 
 .marquee {
